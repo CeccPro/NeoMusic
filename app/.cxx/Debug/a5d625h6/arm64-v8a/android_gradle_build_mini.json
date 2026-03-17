@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/ceccpro/NeoMusic/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ceccpro/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/ceccpro/NeoMusic/app/.cxx/Debug/a5d625h6/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ceccpro/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/ceccpro/NeoMusic/app/.cxx/Debug/a5d625h6/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "neomusic::@6890427a1f51a3e7e1df": {
+      "artifactName": "neomusic",
+      "abi": "arm64-v8a",
+      "output": "/home/ceccpro/NeoMusic/app/build/intermediates/cxx/Debug/a5d625h6/obj/arm64-v8a/libneomusic.so",
+      "runtimeFiles": []
+    }
+  }
+}

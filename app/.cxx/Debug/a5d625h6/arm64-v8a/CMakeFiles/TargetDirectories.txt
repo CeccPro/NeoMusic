@@ -1,0 +1,3 @@
+/home/ceccpro/NeoMusic/app/.cxx/Debug/a5d625h6/arm64-v8a/CMakeFiles/neomusic.dir
+/home/ceccpro/NeoMusic/app/.cxx/Debug/a5d625h6/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/ceccpro/NeoMusic/app/.cxx/Debug/a5d625h6/arm64-v8a/CMakeFiles/rebuild_cache.dir

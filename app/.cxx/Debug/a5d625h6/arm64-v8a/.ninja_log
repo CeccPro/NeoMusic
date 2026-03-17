@@ -1,0 +1,5 @@
+# ninja log v5
+13135	13956	1773721647579252308	/home/ceccpro/NeoMusic/app/build/intermediates/cxx/Debug/a5d625h6/obj/arm64-v8a/libneomusic.so	6987c87e3f46d271
+8	13134	1773721646822236947	CMakeFiles/neomusic.dir/native-lib.cpp.o	ab8de53d7b0d1edc
+3	2743	1773721934894082227	CMakeFiles/neomusic.dir/native-lib.cpp.o	ab8de53d7b0d1edc
+2743	3571	1773721935725099089	/home/ceccpro/NeoMusic/app/build/intermediates/cxx/Debug/a5d625h6/obj/arm64-v8a/libneomusic.so	6987c87e3f46d271

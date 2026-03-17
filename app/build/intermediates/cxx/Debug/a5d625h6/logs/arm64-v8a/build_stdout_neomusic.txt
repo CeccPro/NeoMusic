@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/ceccpro/NeoMusic/app/.cxx/Debug/a5d625h6/arm64-v8a'
+ninja: no work to do.
