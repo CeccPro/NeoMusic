@@ -37,6 +37,9 @@ Las contribuciones al proyecto NeoMusic son bienvenidas. Si deseas contribuir, p
 3. Realiza tus cambios y asegúrate de que el código esté bien documentado.
 4. Envía un pull request describiendo tus cambios y por qué deberían ser incluidos en el proyecto.
 
+## Sugerencias
+Si tienes alguna idea para mejorar NeoMusic, o encontraste un bug, abre un *issue* y lo revisaremos
+
 ## Licencia
 NeoMusic está licenciado bajo GNU General Public License v3.0 (GPL-3.0).
 Esto permite usar, modificar y redistribuir el software siempre que se respeten los términos de la licencia.
