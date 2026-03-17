@@ -1,7 +1,7 @@
 # NeoMusic
-[![Status](https://img.shields.io/badge/Status-Indev-yellow)]
-[![Platform](https://img.shields.io/badge/Platform-Android-green)]
-[![License](https://img.shields.io/badge/License-GPL%20v3.0-blue)]
+![Status](https://img.shields.io/badge/Status-Indev-yellow)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![License](https://img.shields.io/badge/License-GPL%20v3.0-blue)
 
 NeoMusic es un reproductor de música para Android que permite a los usuarios escuchar su música favorita de manera fácil y rápida sin necesidad de pagar por servicios de streaming convencionales. Con NeoMusic, los usuarios pueden acceder a su biblioteca de música local y disfrutar de una experiencia de reproducción fluida y sin interrupciones, o escuchar música en streaming desde plataformas compatibles (como YouTube, utilizando de por medio YT-DLP). Además, NeoMusic ofrece una interfaz intuitiva y personalizable, permitiendo a los usuarios organizar su música de acuerdo a sus preferencias y crear listas de reproducción personalizadas.
 
