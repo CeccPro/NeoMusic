@@ -1,0 +1,11 @@
+# Builds
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Editor directories and files
+.idea/
+*.iml
+*.hprof
+.vscode/
