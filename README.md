@@ -22,6 +22,7 @@ NeoMusic está desarrollado utilizando:
 Esta arquitectura permite mantener una interfaz rápida mientras delega las tareas más pesadas a componentes optimizados. También se usa FFmpeg para la decodificación de audio, lo que garantiza una reproducción de alta calidad y compatibilidad con una amplia variedad de formatos de audio.
 
 ## Roadmap
+- [ ] Interfaz de usuario básica y aplicación mínima
 - [ ] Streaming mediante yt-dlp
 - [ ] Sistema de feed, búsqueda y descubrimiento de música
 - [ ] Reproducción de música local
